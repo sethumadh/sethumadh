@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there! I'm Sethumadhavan Kochukrishnan 👨‍💻
+  Hi there! I'm # Sethumadhavan Kochukrishnan 👨‍💻
 </h1>
 
 - 🔭 A Fullstack Software engineer with a passion for building user interfaces from Brisbane Australia.
@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p>Front-End Development:</p>
+<p># Front-End Development:</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge") />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
