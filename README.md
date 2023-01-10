@@ -52,21 +52,17 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint"/>
 </p>
 
-<p>Communication:</
+### 🤝🏻 &nbsp;Connect with Me
 <p>
   <a href="mailto:sethumadh@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
- 
-</p>
-
-
-<h2 align='center'>Contact Me</h2>
-<p align='center'>
   <a href="https://www.linkedin.com/in/sethumadh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
-  </a>  
+  </a>
+ 
+    
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -75,7 +71,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadh)](https://github.com/sethumadh/github-readme-stats)
 
   
-### 🤝🏻 &nbsp;Connect with Me
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Jsethumadh&left_color=blue&right_color=black"></a>
 </p>
