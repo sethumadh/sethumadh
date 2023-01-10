@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### 🛠 &nbsp;Tech Stack Front-End Development:
+### 🛠 &nbsp;Front-End Development:
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge") />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json json badge"/>
 </p>
 
-<p>Backend Development:</p>
+### 🛠 &nbsp; Backend Development:
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
@@ -36,13 +36,13 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb badge"/>
 </p>
 
-<p>Deployment:</p>
+### 🛠 &nbsp;Deployment:
 <p>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
-<p>Additional:</p>
+###  &nbsp;Additional:
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Cypress badge"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint"/>
 </p>
 
-<p>Communication:</p>
+<p>Communication:</
 <p>
   <a href="mailto:sethumadh@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
@@ -69,11 +69,13 @@
   </a>  
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
 ![sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethumadh&show_icons=true&theme=radical&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadh)](https://github.com/sethumadh/github-readme-stats)
-  
 
+  
+### 🤝🏻 &nbsp;Connect with Me
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Jsethumadh&left_color=blue&right_color=black"></a>
 </p>
