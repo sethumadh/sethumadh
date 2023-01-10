@@ -54,7 +54,7 @@
 
 <p>Communication:</p>
 <p>
-  <a href="mailto:foo@gmail.co">
+  <a href="mailto:sethumadh@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
@@ -68,6 +68,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>  
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sethumadh&left_color=green&right_color=red)
+![sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethumadh&show_icons=true&theme=radical&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadh)](https://github.com/sethumadh/github-readme-stats)
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Jsethumadh&left_color=blue&right_color=black"></a>
