@@ -6,7 +6,7 @@
 - 🌱 I’m currently improving on Advance Nextjs , Tailwind and  Data Structures and Algorithms.
 - 🤔 I’m looking for a company that wants a enthusicatic and hard working developer to join their team.
 - 💬 I'm heavily intersted in Building Products, TypeScript,Nextjs, React, API Design, Tailwind, MUI and a genuine curiosity of truly understanding how things work         under the hood. Massive interest in building apps which contribute value to society
-- ⚡ Fun fact: I was a competetive Table Tennis Player a pro for 4 years.
+- ⚡ Fun fact: I was a competetive Table Tennis Player - a pro for 4 years.
 
 
 <p align='center'>
@@ -63,11 +63,9 @@
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
   <a href="https://www.linkedin.com/in/sethumadh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
-  </a>
- 
+  </a> 
     
 </p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethumadh&show_icons=true&theme=radical&theme=transparent)
