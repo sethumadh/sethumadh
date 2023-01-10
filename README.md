@@ -4,8 +4,10 @@
 
 - 🔭 A Fullstack Software engineer with a passion for building user interfaces from Brisbane Australia.
 - 🌱 I’m currently improving on Advance Nextjs , Tailwind and  Data Structures and Algorithms.
-- ⚡ Fun fact: I was a competetive Table Tennis Player a pro for 4 years. .
-- 💬 I'm heavily intersted in Building Products, TypeScript,Nextjs, React, API Design, Tailwind, MUI and a genuine curiosity of truly understanding how things work under the hood. Massive interest in building apps which contribute value to society
+- 🤔 I’m looking for a company that wants a enthusicatic and hard working developer to join their team.
+- 💬 I'm heavily intersted in Building Products, TypeScript,Nextjs, React, API Design, Tailwind, MUI and a genuine curiosity of truly understanding how things work         under the hood. Massive interest in building apps which contribute value to society
+- ⚡ Fun fact: I was a competetive Table Tennis Player a pro for 4 years.
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sethumadh/">
