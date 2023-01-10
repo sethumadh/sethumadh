@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Sethumadhavan Kochukrishnan 👨‍💻
+  Hi there! I'm Sethumadhavan Kochukrishnan 👨‍💻
 </h1>
 
 - 🔭 A Fullstack Software engineer with a passion for building user interfaces from Brisbane Australia.
