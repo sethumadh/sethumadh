@@ -69,10 +69,10 @@
   </a>  
 </p>
 
-<p align='center'>
+
 ![sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethumadh&show_icons=true&theme=radical&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethumadh)](https://github.com/sethumadh/github-readme-stats)
-  </p>
+  
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Jsethumadh&left_color=blue&right_color=black"></a>
