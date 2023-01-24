@@ -6,7 +6,7 @@
 - 🌱 I’m currently improving on Advance Nextjs , Tailwind and  Data Structures and Algorithms.
 - 🤔 I’m looking for a company that wants a enthusicatic and hard working developer to join their team.
 - 💬 I'm heavily intersted in Building Products, TypeScript,Nextjs, React, API Design, Tailwind, MUI and a genuine curiosity of truly understanding how things work         under the hood. Massive interest in building apps which contribute value to society
-- ⚡ Fun fact: I was a competetive Table Tennis Player - a pro for 4 years.
+- ⚡ Fun fact: I was a competetive Table Tennis Player - a pro for 10 years.
 
 
 <p align='center'>
